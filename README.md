@@ -96,7 +96,7 @@ The repository is organized into a series of activities, each representing progr
 
 3. **Clone the Repository**:
    ```bash
-   git clone https://github.com/akosikhada/R-programming-compilation.git
+   git clone https://github.com/iging/R-programming-compilation.git
    cd R-programming-compilation
    ```
 
